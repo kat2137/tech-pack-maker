@@ -1,0 +1,5 @@
+# Excluded per request
+fibonacci.py
+
+# macOS cruft
+.DS_Store

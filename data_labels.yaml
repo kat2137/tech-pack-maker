@@ -1,0 +1,3037 @@
+files:
+  - name: image_2.jpg
+    labels: 
+      - padded
+      - jacket
+      - hood
+      - toggles
+      - pockets
+      - lining
+      - unisex
+      - winter
+      - elasticated ham
+      - front placket
+      - nylon zip
+  - name: image_3.png
+    labels:
+      - back
+      - coat
+      - lining
+      - cuffs
+      - standing collar
+      - topstitched cuffs
+      - assymetric cut
+      - female
+      - womens
+  - name: image_4.jpg
+    labels:
+      - front
+      - tank top
+      - tank
+      - sleeveless
+      - scoop neckline
+      - cutout under bust
+      - folded hem
+      - neckline ribbing
+      - armholes ribbing
+  - name: image_5.jpg
+    labels:
+      - front
+      - shirt
+      - long sleeve
+      - button down
+      - blind placket
+      - cuffs
+      - straight collar
+      - raglan sleeve
+      - folded hem
+      - topstitched cuffs
+      - topstitched armholes
+      - collar button
+      - unisex
+  - name: image_6.jpg
+    labels:
+      - front
+      - shirt
+      - long sleeve
+      - button down
+      - blind placket
+      - cuffs
+      - mandarin collar
+      - gathered sleeve
+      - cuffs
+      - lace trim cuffs
+      - tunic
+      - male
+      - mens
+  - name: image_7.jpg
+    labels:
+      - front
+      - back
+      - drape
+      - skirt
+      - maxi
+      - long
+      - topstiched waistband
+      - back
+      - back darts
+      - center back seam
+      - mermaid cut
+      - train
+      - side slit
+      - double folded hem
+      - womens
+      - female
+  - name: image_9.jpg
+    labels:
+      - front
+      - back
+      - shorts
+      - medium lenght
+      - front folds
+      - back darts
+      - folded hem
+      - waistband
+      - unisex
+  - name: image_8.jpg
+    labels:
+      - front
+      - back
+      - coat
+      - long sleeve
+      - buttons
+      - seams pressed flat
+      - lined
+      - front darts
+      - back darts
+      - welt pockets
+      - collar
+      - shoulder pads
+      - shoulder darts
+      - womens
+      - female
+  - name: image_10.jpg
+    labels:
+      - jacket
+      - front
+      - back
+      - long sleeve
+      - denim
+      - button down
+      - cuffs
+      - topstitched seams
+      - topstitched cuffs
+      - topstitched armholes
+      - topstitched collar
+      - topstitched placket
+      - folded hem
+      - pockets
+      - back darts
+      - front darts
+      - balloon sleeve
+      - gathered at cuff
+      - dropped shoulder
+      - metal buttons
+      - pocket flaps
+      - womens
+      - female
+  - name: image_12.jpg
+    labels:
+      - front
+      - trousers
+      - long
+      - wide leg
+      - wide
+      - waistband
+      - slide-in pockets
+      - fly
+      - fly topstitched
+      - waistband topstitched
+      - side slits
+      - folded hem
+      - topstitched side seams
+      - buttons closure slits
+      - womens
+      - female
+  - name: image_11.webp
+    labels:
+      - front
+      - blouse
+      - long sleeve
+      - wrap
+      - drape
+      - cuffs
+      - cuffs topstitched
+      - cuffs with button closure
+      - v-neckline
+      - assymetric hem
+  - name: image_13.jpg
+    labels:
+      - front
+      - back
+      - skirt
+      - short
+      - denim
+      - waistband
+      - front placket
+      - buttons
+      - pockets
+      - back yoke
+      - belt loops
+      - waistband button closure
+      - folded hem
+      - womens
+      - female
+  - name: image_14.jpg
+    labels:
+      - front
+      - jacket
+      - waterproof
+      - long sleeve
+      - hood
+      - belted cuffs
+      - front placket
+      - welt pockets
+      - toggles
+      - drawstring hood
+      - poppers
+      - stud buttons
+      - lined
+      - unisex
+  - name: image_16.jpg
+    labels:
+      - front
+      - pocket
+      - long sleeve
+      - shirt
+      - topstitched cuffs
+      - topstitched armholes
+      - neckline facing
+      - long cuffs
+      - folded hem
+      - split neckline
+      - unisex
+  - name: image_15.png
+    labels:
+      - back
+      - trousers
+      - long 
+      - back darts
+      - waistband
+      - belt loops
+      - welt pocket
+      - button
+      - straight fit
+      - straight
+      - male
+      - mens
+  - name: image_17.png
+    labels:
+      - back
+      - skirt
+      - waistband
+      - back darts
+      - topstiched waistband
+      - long
+      - maxi
+      - back slit
+      - blind hem
+      - womens
+      - lined
+      - female
+  - name: image_18.jpg
+    labels:
+      - front
+      - side
+      - trousers
+      - long
+      - front pleats
+      - slide-in pockets
+      - waistband
+      - fly
+      - folded hem
+      - zipper fly
+      - male
+      - mens
+  - name: image_19.png
+    labels:
+      - front
+      - swimsuit
+      - one piece
+      - sleeveless
+      - scoop neckline
+      - bodysuit
+      - high cut leg
+      - backless
+      - zigzag legline
+      - zigzag neckline
+      - straps
+      - rouleau straps
+      - womens
+      - female
+  - name: image_20.jpg
+    labels:
+      - front
+      - back
+      - top
+      - short sleeve
+      - cowl neckline
+      - drape
+      - gathered at shoulders
+      - female
+      - coverstitched neckline
+      - coversitched sleeve hems
+      - coverstitched hem
+      - jersey
+      - female
+      - womens
+  - name: image_21.jpg
+    labels:
+      - front
+      - back
+      - trousers
+      - long
+      - elasticated waistband
+      - side pockets
+      - elasticated hem
+      - harem trousers
+      - balloon fit
+      - drawstring waistband
+      - drawstring hem
+      - womens
+      - female
+  - name: image_22.jpg
+    labels:
+      - front
+      - back
+      - skirt
+      - midi
+      - wrap
+      - waistband
+      - tie closure
+      - side slit
+      - folded hem
+      - center back seam
+      - womens
+      - female
+      - belt loops
+  - name: image_23.jpg
+    labels:
+      - front
+      - mens
+      - male
+      - jumper
+      - quarter zip
+      - long sleeve
+      - cuffs
+      - zip
+      - ribbed hem
+      - ribbed cuffs
+      - ribbed neckline
+      - high neck
+  - name: image_24.png
+    labels:
+      - back
+      - womens
+      - padded
+      - jacket
+      - long sleeve
+      - high neck
+      - standing collar
+      - back darts
+      - drop shoulder
+  - name: image_25.jpg
+    labels:
+      - front
+      - back
+      - pencil skirt
+      - long
+      - waistband
+      - back darts
+      - front darts
+      - back fly
+      - back slit
+      - lined
+      - front darts
+      - womens
+      - female
+      - button closure
+      - invisible zipper
+  - name: image_26.jpg
+    labels:
+      - front
+      - collar
+      - long sleeve
+      - raglan sleeve
+      - cuffs
+      - elasticated cuffs
+      - elasticated hem
+      - welt pockets
+      - topstitched collar
+      - unisex
+      - bomber
+      - jacket
+  - name: image_27.jpg
+    labels:
+      - front
+      - dress
+      - front darts
+      - princess skirt
+      - princess seams
+      - french seams
+      - high neckline
+      - cap sleeve
+      - double folded hem
+      - womens
+      - female
+      - a-line
+      - midi
+  - name: image_28.jpg
+    labels:
+      - front
+      - back
+      - dress
+      - full lenght
+      - maxi
+      - long sleeve
+      - princess seams
+      - u-neckline
+      - scoop neckline
+      - womens
+      - female
+  - name: image_29.jpg
+    labels:
+      - front
+      - back
+      - dress
+      - long sleeve
+      - princess seams
+      - u-neckline
+      - scoop neckline
+  - name: image_30.jpg
+    labels:
+      - front
+      - vest
+      - elasticated waist
+      - zipper
+      - pockets
+      - chest pockets
+      - pocket flaps
+      - drawstring waist
+      - boat neckline
+      - shoulders topstitched
+      - zip binding
+      - lined
+      - unisex
+  - name: image_33.jpg
+    labels:
+      - front
+      - jeans
+      - male
+      - mens
+      - long
+      - waistband
+      - belt loops
+      - fly
+      - slide-in pockets
+      - fly topstitched
+      - flat-felled seams
+      - topstitched waistband
+      - stud button
+  - name: image_32.jpg
+    labels:
+      - front
+      - back
+      - trousers
+      - long
+      - front drape
+      - assymetric drape
+      - back darts
+      - waist facing
+      - back welt pocket
+      - womens
+      - high-waisted
+      - female
+  - name: image_34.jpg
+    labels:
+      - dress
+      - front
+      - maxi
+      - long
+      - womens
+      - female
+      - assymetric drape
+      - draped hips
+      - side slit
+      - high neckline
+      - long skirt
+      - draped skirt
+  - name: image_36.png
+    labels:
+      - jacket
+      - front
+      - bomber
+      - straight collar
+      - collar
+      - topstitched cuffs
+      - welt pockets
+      - elasticated waistband
+      - topstitched waistband
+      - raglan sleeve
+      - zip
+      - unisex
+  - name: image_35.png
+    labels:
+      - skirt
+      - maxi
+      - womens
+      - female
+      - front
+      - double-breasted
+      - buttons
+      - topstitched waistband
+      - pencil
+  - name: image_37.jpg
+    labels:
+      - front
+      - collar
+      - blazer
+      - single button
+      - pocket flaps
+      - binding
+      - loose fit
+      - oversized collar
+      - lining
+  - name: image_38.png
+    labels:
+      - back
+      - female
+      - dress
+      - womens
+      - straps
+      - rouleau straps
+      - back tie
+      - v-back
+      - princess skirt
+      - voluminous
+      - cinched waist
+      - bodice
+      - concealed zip
+  - name: image_39.png
+    labels:
+      - shirt
+      - front
+      - chest pocket
+      - topstitched pocket
+      - front placket
+      - quarter placket
+      - wide sleeves
+      - A-line
+      - oversized
+      - straight collar
+      - womens
+      - female
+  - name: image_44.webp
+    labels:
+      - female
+      - womens
+      - blouse
+      - tie
+      - necktie
+      - gathered sleeves
+      - balloon sleeves
+      - gathered cuffs
+      - assymetric hem
+      - keyhole neckline
+      - high neck
+  - name: image_40.webp
+    labels:
+      - shirt
+      - female
+      - womens
+      - straight collar
+      - front placket
+      - buttons
+      - waist wrap
+      - oversized
+      - dropped shoulder
+      - topstitched shoulder
+      - topstitched armhole
+      - balloon sleeves
+      - topstitched cuffs
+      - cinched waist
+      - button placket
+  - name: image_41.jpg
+    labels:
+      - cape
+      - front
+      - back
+      - scoop neckline
+      - assymetric closure
+      - blind hem
+      - raglan sleeve
+
+  - name: image_42.jpg
+    labels:
+      - blazer
+      - suit
+      - tuxedo
+      - pocket flaps
+      - front darts
+      - shoulder pads
+      - sleeve placket
+      - lining
+      - chest pocket
+      - collar flaps
+      - male
+      - mens
+      - blind hem
+  - name: image_43.jpg
+    labels:
+      - princess seams
+      - womens
+      - dress
+      - female
+      - midi
+      - back zip
+      - boat neck
+      - short sleeve
+      - cap sleeve
+      - standing collar
+  - name: image_45.jpg
+    labels:
+      - front
+      - back
+      - womens
+      - female
+      - assymetric front closure
+      - princess seams
+      - back darts
+      - shoulder darts
+      - sleeveless
+      - tie closure
+  - name: image_46.jpg
+    labels:
+      - front
+      - womens
+      - blouse
+      - female
+      - dropped shoulder
+      - v-neckline
+      - necktie
+      - dropped shoulder
+      - balloon sleeves
+      - gathered cuffs
+      - topstitched cuffs
+      - button closure cuffs
+  - name: image_55.jpg
+    labels:
+      - bomber
+      - jacket
+      - front
+      - zip
+      - lining
+      - pocket flaps
+      - stud button pockets
+      - drop shoulder
+      - ribbed cuff
+      - ribbed waistband
+      - ribbed collat
+      - arm pocker
+  - name: image_47.jpg
+    labels:
+      - front
+      - trouser
+      - mens
+      - male
+      - drawstring hem
+      - elasticated waist
+      - drawstring waist
+      - pockets
+      - pocket flaps
+      - straight
+      - loose fit
+  - name: image_54.jpg
+    labels:
+      - shirt
+      - oversize
+      - front placket
+      - folded hem
+      - topstitched collar
+      - straight collar
+      - topstitched cuffs
+      - topstitched placket
+      - oversized
+      - loose fit
+      - dropped shoulder
+  - name: image_48.jpg
+    labels:
+      - waistcoat
+      - mens
+      - male
+      - front button closure
+      - front
+      - back
+      - tailored
+      - front darts
+      - back darts
+      - welt pockets
+      - lining
+      - facing
+      - v-neckline
+  - name: image_49.png
+    labels:
+    - back
+    - trouser
+    - folded hem
+    - back darts
+    - waistband
+    - belt loops
+    - welt pocket
+    - button pocket
+    - male
+    - mens
+  - name: image_50.jpg
+    labels:
+      - shirt
+      - tailored
+      - womens
+      - female
+      - front placket
+      - topstitched placket
+      - topstitched cuffs
+      - sleeve placket
+      - buttons
+      - back yoke
+      - front
+      - back
+  - name: image_51.png
+    labels:
+      - back
+      - dress
+      - pencil
+      - back darts
+      - diamond darts
+      - sleeveless
+      - maxi
+      - fitted
+  - name: image_52.jpg
+    labels:
+      - trouser
+      - front
+      - back
+      - back darts
+      - womens
+      - female
+      - high-waisted
+      - belt loops
+      - fly
+      - zip
+      - button
+      - wide leg
+      - long
+  - name: image_53.jpg
+    labels:
+     - trouser
+     - front
+     - back
+     - back darts
+     - waistband
+     - belt
+     - blind hem
+  - name: image_56.jpg
+    labels:
+      - front
+      - back
+      - denim
+      - trouser
+      - waistband
+      - topstitched waistband
+      - belt loops
+      - stud button
+      - fly
+      - fly zip
+      - slide-in pockets
+      - jewellery pocket
+      - back pockets
+      - topstitched pockets
+      - back yoke
+      - topstitched yoke
+      - flat-felled seams
+  - name: image_57.jpg
+    labels:
+      - front
+      - back
+      - tailored
+      - long
+      - trouser
+      - straight
+      - bootcut
+      - formal
+      - slide-in pockets
+      - waistband
+      - blind hem
+      - belt loops
+      - french seams
+      - zip fly
+      - womens
+      - female
+  - name: image_58.jpg
+    labels:
+      - swimsuit
+      - back
+      - U-back
+      - low back
+      - straps
+      - rouleau straps
+      - zigzag neckline
+      - zigzag legline
+      - gusset seam
+      - bartack
+  - name: image_59.jpg
+    labels:
+      - front
+      - back
+      - gathered waist
+      - raglan sleeve
+      - dropped shoulder
+      - shirt
+      - drawstring waist
+      - oversized
+      - shoulder topstitched
+      - gathered sleeve
+      - balloon sleeve
+      - straight collar
+      - topstitched collar
+      - curvy back yoke
+      - womens
+      - female
+  - name: image_60.jpg
+    labels:
+      - front
+      - skirt
+      - assymetric
+      - pleated
+      - waistband
+      - folds
+      - long
+      - maxi
+      - a-line
+      - side zip
+      - zip binding
+      - concealed zip
+      - blind hem
+  - name: image_61.jpg
+      - waistcoat
+      - tailored
+      - back adjustment
+      - seams pressed flat
+      - lining
+      - princess seams
+      - center back seams
+      - welt pockets
+      - buttons
+      - low neckline
+      - scooped neckline
+      - sleeveless
+  - name: image_62.jpg
+    labels:
+      - front
+      - back
+      - shirt
+      - concealed placket
+      - buttons
+      - dropped shoulder
+      - straight fit
+      - balloon sleeves
+      - button-closure cuffs
+      - topstitched cuffs
+      - straight collar
+      - topstitched collar
+      - gathered at cuff
+      - womens
+      - female
+  - name: image_63.jpg
+    labels:
+      - skinny
+      - slim
+      - flat-felled seams
+      - zip
+      - fly
+      - stud button
+      - slide-in pockets
+      - topstitched pockets
+      - jewellery pocket
+      - belt loops
+      - back yoke
+      - back
+      - front
+      - mens
+      - male
+      - topstitched waist
+  - name: image_64.png
+    labels:
+    - coat
+    - womens
+    - female
+    - wrap collar
+    - topstitched belt
+    - lining
+    - blind hem
+    - welt pockets
+    - tailored
+    - neck facing
+    - funnel neck
+    - ankle lenght
+  - name: image_65.jpg
+    labels:
+      - boat neck
+      - loose fit
+      - assymetric hem
+      - lace trim sleeves
+      - lace trim edge
+      - womens
+      - female
+  - name: image_66.png
+    labels:
+      - funnel neck
+      - button
+      - blind hem
+      - medium
+      - folded cuffs
+      - welt pockets
+      - belt
+      - buckle
+      - lining
+      - womens
+      - female
+  - name: image_67.webp
+    labels:
+      - tunic
+      - blouse
+      - oversized
+      - cuffs
+      - topstitched cuffs
+      - buttons
+      - dropped shoulder
+      - drape
+      - balloon sleeve
+      - necktie
+      - french seams
+      - button-closure cuffs
+  - name: image_68.jpg
+    labels:
+      - front
+      - back
+      - wrap
+      - back darts
+      - back slit
+      - skirt
+      - womens
+      - female
+      - pencil
+      - knee-lenght
+      - assymetric front
+      - button closure
+  - name: image_69.jpg
+    labels:
+      - skirt
+      - godet
+      - front 
+      - front darts
+      - inserts
+      - waistband
+      - female
+      - womens
+      - blind hem
+  - name: image_70.jpg
+    labels:
+    - dress
+    - front
+    - knee-leght
+    - cowl neckline
+    - drape
+    - ruched sides
+    - lining
+    - facing
+    - blind hem
+    - womens
+    - female
+  - name: image_71.png
+    labels:
+      - blazer
+      - high neck
+      - standing collar
+      - double breasted
+      - topstitched belt
+      - welt pockets
+      - lining
+      - blind hem
+      - shoulder pads
+      - tailored
+      - buckle
+  - name: image_72.jpg
+    labels:
+      - female
+      - womens
+      - cami top
+      - top
+      - straps
+      - rouleau straps
+      - neckline frill
+      - folded hem
+      - pin hem
+      - french seams
+      - neckline facing
+  - name: image_73.png
+    labels:
+      - bodysuit
+      - cape
+      - stretch
+      - womens
+      - female
+  - name: image_74.jpg
+    labels:
+      - jacket
+      - drape
+      - lapel collar
+      - loose fit
+      - drawstring cuffs
+      - neckline facing
+      - unisex
+      - balloon sleeves
+      - oversize
+  - name: image_75.png
+    labels:
+      - shirt
+      - back
+      - yoke
+      - topstitched yoke
+      - topstitched cuffs
+      - back darts
+      - collar
+      - sleeve placket
+      - french seams
+      - cuff pleat
+      - fitted
+      - topstitched armhole
+      - womens
+      - female
+  - name: image_97.jpg
+    labels: 
+      - trouser
+      - womens
+      - female
+      - waistband
+      - topstitched waistband
+      - fly
+      - zip
+      - front pleat
+      - slide-in pockets
+      - blind hem
+      - back
+      - front
+      - back darts
+      - belt loops
+  - name: image_76.jpg
+    labels: 
+      - jacket
+      - denim
+      - concealed placket
+      - straight collar
+      - dropped shoulders
+      - front yoke
+      - chest pockets
+      - pocket flaps
+      - button closure pockets
+      - buttons
+      - front darts
+      - cuffs
+      - topstitched waistband
+      - topstitched cuffs
+  - name: image_77.jpg
+    labels:
+      - shirt
+      - male
+      - front yoke
+      - topstitched placket
+      - double folded hem
+      - topstitched cuffs
+      - straight collar
+      - mens
+      - topstitched collar
+      - topstitched armhole
+  - name: image_78.jpg
+    labels:
+      - trouser
+      - womens
+      - female
+      - high-waisted
+      - waistband
+      - front
+      - back
+      - front pleats
+      - fly
+      - zip
+      - belt loops
+      - back darts
+      - welt pockets
+      - blind hem
+      - wide leg
+  - name: image_79.jpg
+    labels:
+      - trouser
+      - womens
+      - barrel leg
+      - curved front seam
+      - slide-in pockets
+      - fly
+      - zip
+      - belt loops
+      - topstitched waistband
+      - button
+      - back
+      - front
+      - back darts
+      - back pockets
+      - flat-felled seams
+      - denim
+  - name: image_80.jpg
+    labels: 
+      - vest
+      - sleeveless
+      - denim
+      - concealed placket
+      - front yoke
+      - chest pockets
+      - slide in pockets
+      - armhole binding
+      - zip pockets
+      - stud buttons
+      - hem binding
+      - straight collar
+      - topstitched collar
+  - name: image_81.png
+    labels:
+      - back
+      - bodysuit
+      - ruching
+      - long leg
+      - wide leg
+      - sleeveless
+      - v-back
+      - womens
+      - female
+  - name: image_82.jpg
+    labels:
+      - blazer
+      - collar
+      - chest pocket
+      - welt pockets
+      - ties
+      - lining
+      - straight fit
+      - long
+  - name: image_83.jpg
+    labels:
+      - trouser
+      - male
+      - mens
+      - pleats
+      - front
+      - belt loop
+      - slide-in pockets
+      - zip
+      - fly
+      - chino
+      - tailored
+  - name: image_84.jpg
+    labels:
+      - trouser
+      - womens
+      - female
+      - front
+      - back
+      - front darts
+      - back darts
+      - back pockets
+      - blind hem
+      - assymetric front
+      - topstitched pockets
+  - name: image_85.png
+    labels:
+      - coat
+      - womens
+      - female
+      - belt
+      - buckle
+      - assymetric front
+      - wrap front
+      - lining
+      - blind hem
+      - high neck
+      - welt pockets
+  - name: image_86.png
+    labels: 
+      - bodysuit
+      - womens
+      - female
+      - stretch
+      - long leg
+      - wide leg
+      - sleeveless
+      - boat neck
+  - name: image_87.jpg
+    labels:
+      - coat
+      - womens
+      - female
+      - short
+      - lining
+      - seams pressed flat
+      - assymetric front
+      - funnel neck
+      - high neck
+      - buttons
+      - a-line
+      - wide sleeves
+      - short
+      - lining
+      - front
+  - name: image_88.jpg
+    labels:
+    - skirt
+    - female
+    - womens
+    - knee-lenght
+    - darts
+    - inserts
+    - godet
+    - cinched waist
+    - waistband
+    - french seams
+    - front
+  - name: image_89.png
+    labels:
+      - shirt
+      - tailored
+      - fitted
+      - womens
+      - cuffs
+      - front
+      - front darts
+      - topstitched shoulder
+      - topstitched cuffs
+      - straight collar
+      - topstitched collar
+      - v-neck
+      - concealed placket
+      - folded hem
+      - female
+      - french seams
+  - name: image_90.jpg
+    labels:
+      - dress
+      - front
+      - back
+      - gathered neckline
+      - sleeveless
+      - frill hem
+      - pin hem
+      - back zip
+      - high neck
+      - maxi
+      - french seams
+      - voluminous
+      - long
+      - female
+      - womens
+      - halterneck
+      - sleeveless
+  - name: image_91.jpg
+    labels:
+      - jacket
+      - male
+      - mens
+      - loose fit
+      - hood
+      - drawstring neckline
+      - neckline facing
+      - front pocket
+      - topstitched pocket
+      - belted cuffs
+      - stud buttons
+      - poppers
+      - pocket flaps
+      - button closure pocket
+      - drawstring waist
+      - lining
+      - overlocked seams
+      - topstitched cuffs
+      - topstitched shoulders
+      - front placket
+      - topstitched placket
+  - name: image_92.jpg
+    labels:
+      - coat
+      - trench
+      - trenchcoat
+      - gun flap
+      - topstitched cuffs
+      - belted cuffs
+      - long
+      - maxi
+      - voluminous
+      - lining
+      - folded hem
+      - zip pockets
+      - buckle
+      - collar
+      - snap buttons
+      - topstitched collar
+      - fused cuffs
+      - fused collar
+      - womens
+      - female
+  - name: image_93.jpg
+    labels:
+      - coat
+      - petticoat
+      - cape
+      - slide-in pockets
+      - double-breasted
+      - neckline facing
+      - yoke
+      - front
+      - back
+      - topstitched neckline
+      - lining
+      - a-line
+      - medium
+      - womens
+      - female
+  - name: image_94.jpg
+    labels:
+      - one sleeve
+      - drape
+      - twisted neckline
+      - high neck
+      - long sleeve
+      - top
+      - assymetric
+      - twist
+      - womens
+      - female
+  - name: image_95.jpg
+    labels:
+      - skirt
+      - front
+      - back
+      - back yoke
+      - pocket flaps
+      - waistband
+      - back pockets
+      - assymetric
+      - blind hem
+      - front dart
+      - fly
+      - drape
+      - pleat
+      - button
+      - zip
+  - name: image_96.png
+    labels:
+      - coat
+      - assymetric
+      - lining
+      - double yoke
+      - topstitched cuffs
+      - fused cuffs
+      - welt pocket
+      - raglan sleeve
+      - high neck
+      - standing collar
+      - topstitched collar
+      - button-closure collar
+      - fitted
+      - womens
+      - female
+  - name: image_98.png
+    labels:
+      - overshirt
+      - jacket
+      - topstitched shoulder
+      - front patch
+      - topstitched placket
+      - buttons
+      - topstitched cuffs
+      - cuff pleat
+      - topstitched armhole
+      - straight collar
+      - topstitched collar
+      - folded hem
+      - seams pressed open
+  - name: image_99.jpg
+    labels:
+      - jacket
+      - parka
+      - loose fit
+      - hood
+      - neck facing
+      - topstitched shoulders
+      - lining
+      - drawstring waist
+      - pockets
+      - pocket flaps
+      - folded cuffs
+      - front placket
+      - zip
+      - snap button collar
+      - flat-felled seams
+  - name: image_121.jpg
+    labels:
+      - coat
+      - trench
+      - trench coat
+      - raglan sleeve
+      - topstitched armhole
+      - balloon sleeves
+      - military style
+      - double-breasted
+      - belt
+      - buckle
+      - topstitched belt
+      - belt loops
+      - belted cuffs
+      - welt pockets
+      - straight collar
+      - topstitched collar
+      - throat latch
+      - front facing
+      - double yoke
+      - folded hem
+      - lining
+  - name: image100.jpg
+    labels:
+      - trouser
+      - wide leg
+      - thin
+      - v - notch legline
+      - elasticated waistband
+      - drawstring waistband
+      - tassel pullers
+      - rolled hem
+  - name: image_101.jpg
+    labels:
+    - train
+    - skirt
+    - back
+    - front
+    - back
+    - tailored
+    - maxi
+    - mermaid
+    - fitted
+    - back zip
+  - name: image_102.jpg
+    labels:
+      - denim
+      - jacket
+      - front yoke
+      - front
+      - concealed placket
+      - stud buttons
+      - chest pockets
+      - overshirt
+      - topstitched shoulders
+      - pocket flaps
+      - topstitched cuffs
+      - button-closure pockets
+  - name: image_103.jpg
+    labels:
+      - blazer
+      - princess seams
+      - back
+      - front
+      - double yoke
+      - topstiched princess seams
+      - folded hem
+      - button-closure cuffs
+      - cocoon sleeve
+      - 3-piece sleeve
+      - fitted
+      - tailored
+      - front facing
+      - notched collar
+      - topstitched collar
+      - lining
+      - womens
+      - female
+  - name: image_104.png
+    labels:
+      - coat
+      - zip
+      - high collar
+      - short
+      - folded cuffs
+      - lining
+      - womens
+      - female
+      - front
+  - name: image_105.png
+    labels:
+      - front yoke
+      - topstitched yoke
+      - concealed placket
+      - front pockets
+      - front
+      - topstitched pockets
+      - elbow patches
+      - cuffs
+      - topstitched cuffs
+      - straight collar
+      - armhole topstitched
+      - flat-felled seams
+      - jacket
+      - denim
+      - boxy fit
+  - name: image_106.jpg
+    labels:
+      - wrap
+      - top
+      - v-neckline
+      - belt
+      - tie
+      - sleeveless
+      - womens
+      - female
+      - blouse
+  - name: image_107.jpg
+    labels:
+      - dress
+      - mini
+      - womens
+      - female
+      - cowl neck
+      - neckline facing
+      - pin hem
+      - chain straps
+      - straps
+  - name: image_108.png
+    labels:
+      - overalls
+      - mens
+      - male
+      - zip
+      - front
+      - workwear
+      - zip pocket
+      - slide-in pockets
+      - trouser
+      - long
+      - plastic buckles
+      - overlocked seams
+      - lining
+  - name: image_109.jpg
+    labels:
+      - jacket
+      - lining
+      - a-line
+      - slide-in pockets
+      - placket
+      - buttons
+      - front yoke
+      - overlocked seams
+      - quilted lining
+      - hood
+      - zip
+  - name: image_110.jpg
+    labels:
+      - front
+      - back
+      - bust gathers
+      - lace trim
+      - v-neckline
+      - neckline binding
+      - ruffle sleeves
+      - lace trim sleeves
+      - underbust lace insert
+      - zigzaged lace
+      - pin hem
+      - womens
+      - female
+      - blouse
+      - top
+      - short sleeve
+      - bell shape
+  - name: image_111.jpg
+    labels:
+      - front
+      - back
+      - waist tie
+      - belt
+      - wrap
+      - drape
+      - v-neckline
+      - sleeveless
+      - womens
+      - top
+      - cropped
+      - female
+      - french seams
+      - neckline facing
+  - name: image_112.jpg
+    labels:
+      - dress
+      - front
+      - back
+      - long sleeve
+      - stretch
+      - front twist
+      - side ruching
+      - assymetric
+      - assymetric skirt
+      - skirt ruffle
+      - narrow sleeves
+      - cut-out
+      - womens
+      - female
+      - jersey
+      - overlocked seams
+  - name: image_113.jpg
+    labels:
+      - denim
+      - skirt
+      - front
+      - back
+      - fly
+      - zip
+      - stud button
+      - belt loops
+      - waistband
+      - topstitched waistband
+      - flat-felled seams
+      - side slits
+      - back yoke
+      - topstitched yoke
+      - back pockets
+      - jewellery pocket
+      - slide-in pockets
+      - knee-lenght
+      - womens
+      - female
+  - name: image_114.jpg
+    labels:
+      - back
+      - front
+      - blazer
+      - suit
+      - lining
+      - boxy fit
+      - seams pressed flat
+      - collar
+      - fused collar
+      - welt pockets
+      - chest pocket
+      - button
+      - front facing
+      - front darts
+      - mens
+      - oversized
+  - name: image_115.jpg
+    labels:
+      - waistcoat
+      - front darts
+      - front
+      - back
+      - button closure
+      - chest pocket
+      - welt pockets
+      - back darts
+      - center back seam
+      - v-neckline
+      - lining
+      - folded hem
+  - name: image_116.jpg
+    labels:
+      - dress
+      - front
+      - back
+      - assymetric
+      - assymetric hem
+      - skirt insert
+      - princess seams
+      - sleeveless
+      - zip
+      - french seams
+  - name: image_117.png
+    labels:
+      - jacket
+      - back
+      - overshirt
+      - back yoke
+      - double yoke
+      - topstitched yoke
+      - flat-felled seams
+      - topstitched collar
+      - sleeve placket
+      - topstitched cuffs
+      - boxy fit
+      - center back seam
+  - name: image_118.png
+    labels:
+      - bodysuit
+      - one piece
+      - short
+      - sleeveless
+      - boat neckline
+      - stretch
+      - fitted
+  - name: image_119.jpg
+    labels:
+      - trouser
+      - back
+      - front
+      - topstitched seams
+      - back darts
+      - waistband
+      - fly
+      - zip
+      - slide-in pockets
+      - front slit
+      - bootcut
+      - flare
+      - high-waisted
+      - stud button
+      - womens
+      - female
+  - name: image_120.png
+    labels:
+      - back
+      - jacket
+      - blazer
+      - cocoon sleeves
+      - tailored
+      - back darts
+      - back yoke
+      - notched collar
+      - topstitched yoke
+      - wide sleeves
+      - lining
+      - blind hem
+      - female
+      - womens
+  - name: image_122.jpg
+    labels:
+      - balloon leg
+      - denim
+      - trouser
+      - front
+      - back
+      - flat-felled seams
+      - folded hem
+      - topstitched fly
+      - fly
+      - zip
+      - topstitched waistband
+      - belt loops
+      - slide-in pockets
+      - jewellery pocket
+      - back yoke
+      - back pockets
+      - topstitched yoke
+  - name: image_123.jpg
+    labels:
+    - top
+    - womens
+    - female
+    - high neck
+    - drape
+    - gathered neckline
+    - ruched waistband
+    - sleeveless
+    - halterneck
+  - name: image_124.jpg
+    labels:
+    - top
+    - sleeveless
+    - ruffle
+    - assymetric
+    - pin hem
+    - neckline binding
+    - armhole binding
+    - womens
+    - female
+    - ruffle hem
+    - scoop neckline
+    - front
+  - name: image_125.jpg
+    labels:
+    - trouser
+    - high-waisted
+    - tailored
+    - mens
+    - male
+    - front
+    - back
+    - front pleats
+    - back darts
+    - back pockets
+    - waistband
+    - belt
+    - overlap belt
+    - buckle
+    - blind hem
+    - seams pressed open
+  - name: image_126.jpg
+    labels:
+      - trouser
+      - harem
+      - gathered at ankle
+      - elasticated hem
+      - elasticated waistband
+      - thin
+      - womens
+      - front
+  - name: image_127.png
+    labels:
+      - back
+      - blazer
+      - tailored
+      - lining
+      - folded hem
+      - seams pressed open
+      - three piece sleeve
+      - button-closure cuffs
+      - buttonkoles
+      - standing collar
+  - name: image_128.jpg
+    labels:
+      - straight collar
+      - shirt
+      - topstitched collar
+      - chest pockets
+      - open cuffs
+      - fused collar
+      - topstitched cuffs
+      - topstitched placket
+      - button-down placket
+      - buttonholes
+      - collar stand topstitched
+      - womens
+      - female
+  - name: image_129.png
+    labels:
+      - skirt
+      - mermaid
+      - back
+      - godet
+      - insert
+      - pin hem
+      - waistband
+      - back darts
+      - bead trim
+      - french seams
+  - name: image_149.jpg
+    labels:
+    - top
+    - halterneck
+    - underbust seam
+    - front darts
+    - front
+    - back
+    - low back
+    - cups
+    - bust darts
+    - female
+    - womens
+  - name: image_130.jpg
+    labels:
+      - shirt
+      - womens
+      - waist wrap
+      - front tie
+      - front placket
+      - topstitched placket
+      - button placket
+      - topstitched collar
+      - topstitched cuffs
+      - dropped shoulder
+      - topstitched shoulder
+      - topstitched armhole
+      - folded hem
+      - fused cuffs
+      - fused collar
+  - name: image_131.jpg
+    labels:
+      - jacket
+      - boxy fit
+      - front
+      - back
+      - lining
+      - front pockets
+      - pockets topstitched
+      - zip
+      - folded hem
+      - back yoke
+      - straight collar
+      - seams pressed flat
+      - topstitched collar
+  - name: image_132.png
+    labels:
+      - back
+      - bodysuit
+      - female
+      - womens
+      - fitted
+      - v-back
+      - ruching
+      - short
+      - stretch
+      - overlocked seams
+      - heat seal
+  - name: image_133.png
+    labels:
+      - back
+      - jacket
+      - blazer
+      - lining
+      - back darts
+      - tailored
+      - fitted
+      - shoulder pads
+      - button-closure cuffs
+      - shoulder darts
+      - standing collar
+      - topstitched collar
+  - name: image_134.png
+    labels:
+      - front
+      - double-breasted
+      - slide-in pockets
+      - pencil
+      - skirt
+      - knee-lenght
+      - wasitband
+  - name: image_135.png
+    labels:
+      - lapel collar
+      - concealed placket
+      - folded hem
+      - front pockets
+      - topstitched pockets
+      - topstitched cuffs
+      - topstitched shoulder
+      - front facing
+      - topstitched facing
+      - jacket
+  - name: image_136.jpg
+    labels:
+      - raglan sleeve
+      - short sleeve
+      - polo
+      - buttons
+      - button-up collar
+      - straight collar
+      - ribbed collar
+      - ribbed sleeve hem
+      - ribbed hem
+      - male
+      - mens
+      - shirt
+      - jersey
+      - knit
+      - overlocked seams
+  - name: image_137.jpg
+    labels:
+      - waistband
+      - jacket
+      - stud buttons
+      - front placket
+      - button closure
+      - topstitched shoulder
+      - welt pockets
+      - straight collar
+      - topstitched collar
+      - placket topstitch
+      - lining
+      - topstitched collar stand
+      - cuffs
+      - front
+  - name: image_138.jpg
+    labels:
+      - harem
+      - trouser
+      - sheer
+      - elasticated waistband
+      - elasticated trouser hem
+      - drape
+      - loose fit
+      - dropped crotch
+      - front
+  - name: image_139.jpg
+    labels:
+      - shirt
+      - straight collar
+      - topstitched collar
+      - boxy fit
+      - topstitched waistband
+      - front
+      - button-closure collar
+      - front placket
+      - concealed placket
+      - placket topstitch
+      - front darts
+      - topstitched shoulder
+      - topstitched armhole
+      - wide sleeve
+      - short sleeve
+      - womens
+      - female
+  - name: image_140.jpg
+    labels:
+      - blazer
+      - double breasted
+      - boxy fit
+      - front
+      - lining
+      - button-closure cuffs
+      - front darts
+      - chest pocket
+      - pocket flaps
+      - collar
+      - fused collar
+      - fused pocket flaps
+      - shoulder pads
+  - name: image_141.jpg
+    labels:
+      - back 
+      - jacket
+      - bomber
+      - waistband ribbing
+      - neckline ribbing
+      - cuff ribbing
+      - lining
+  - name: image_142.jpg
+    labels:
+      - dress
+      - halterneck
+      - back
+      - front
+      - gathered cup
+      - underbust seam
+      - lining
+      - low back
+      - pencil skirt
+      - maxi
+      - side slit
+      - blind hem
+      - front darts
+      - back darts
+      - side zip
+      - concealed zip
+  - name: image_143.jpg
+    labels:
+      - trouser
+      - flare
+      - slide-in pockets
+      - front
+      - back
+      - high-waisted
+      - waistband
+      - waistband fused
+      - fused hem
+      - hem folded outwards
+      - back darts
+      - tailored
+      - womens
+      - female
+  - name: image_144.jpg
+    labels:
+      - high-waisted
+      - waistband
+      - front
+      - back
+      - front pleats
+      - belt loops
+      - button
+      - fly
+      - slide-in pockets
+      - wide leg
+      - back darts
+      - welt pockets
+      - back pockets
+      - blind hem
+      - french seams
+      - womens
+      - female
+      - trouser
+  - name: image_145.jpg
+    labels:
+      - jeans
+      - male
+      - denim
+      - mens
+      - patch pockets
+      - slide-in pockets
+      - back
+      - front
+      - fly
+      - topstitched fly
+      - zip
+      - stud button
+      - topstitched waistband
+      - belt loops
+      - back pockets
+      - pocket flaps
+      - button-closure pockets
+      - folded hem
+  - name: image_146.jpg
+    labels:
+      - lapel collar
+      - blouse
+      - bodysuit
+      - coverstitch
+      - cinched waist
+      - loose fit
+      - blind hem cuffs
+      - womens
+      - female
+  - name: image_147.jpg
+    labels:
+      - short
+      - trouser
+      - folded out hem
+      - front
+      - front pleats
+      - front darts
+      - wide leg
+      - assymetric fly
+      - fly
+      - topstitched waistband
+      - button closure
+      - slide-in pockets
+      - topstitched pockets
+      - back darts
+  - name: image_151.jpg
+    labels:
+      - jacket
+      - topstitched shoulder
+      - topstitched armhole
+      - topstitched cuffs
+      - sleeve pleat
+      - zip pockets
+      - chest pocket
+      - zip
+      - straight collar
+      - topstitched collar
+      - lining
+      - front
+      - regular fit
+      - male
+      - mens
+  - name: image_153.jpg
+    labels:
+      - coat
+      - front facing
+      - button
+      - dropped shoulder
+      - lining
+      - blind hem
+      - topstitched armhole
+      - cocoon sleeve
+      - seams pressed open
+      - neck facing
+      - v-neckline
+      - long
+      - maxi
+      - womens
+      - female
+  - name: image_154.jpg
+    labels:
+      - trouser
+      - drawstring hem
+      - drawstring waist
+      - slide-in pockets
+      - dropped crotch
+      - wide leg
+      - cargo
+      - topstitched pockets
+      - overlocked seams
+      - mens
+      - male
+  - name: image_156.png
+    labels:
+      - jacket
+      - ribbed cuffs
+      - waistband ribbing
+      - zip
+      - topstitched zip
+      - pockets
+      - front
+      - pocket flaps
+      - topstitched pockets
+      - pilot
+      - aviator
+      - fur collar
+      - lining
+      - topstitched shoulder
+      - epaulettes
+  - name: image_157.jpg
+    labels:
+      - cardigan
+      - knit
+      - womens
+      - ruffle
+      - v-neckline
+      - buttons
+      - ribbed cuffs
+      - balloon sleeves
+      - ribbed waistband
+      - loose fit
+      - female
+      - knit
+  - name: image_158.jpg
+    labels:
+      - wrap
+      - oversized
+      - loose
+      - neckline facing
+      - front
+      - back
+      - epaulettes on cuffs
+      - rolled cuffs
+      - drape
+      - straight collar
+      - fused collar
+      - fused facing
+      - tunic
+      - female
+      - womens
+      - batwing
+      - back yoke
+  - name: image_159.jpg
+    labels:
+      - dress
+      - slide-in pockets
+      - voluminous
+      - long sleeve
+      - hemmed sleeves
+      - folded hem
+      - drape
+      - draped neckline
+      - wrap
+      - cinched waist
+      - belt
+      - buckle
+  - name: image_160.jpg
+    labels:
+      - mermaid 
+      - skirt
+      - maxi
+      - front
+      - back
+      - topstitched seams
+      - back lacing
+      - back split
+      - womens
+      - fitted
+      - female
+  - name: image_161.jpg
+    labels:
+      - jacket
+      - funnel neck
+      - lining
+      - womens
+      - welt pockets
+      - cuffs
+      - a-line
+      - concealed placket
+      - topstitched placket
+      - zip
+      - stud button
+  - name: image_162.jpg
+    labels:
+      - jumper
+      - cardigan
+      - waistband ribbing
+      - cuff ribbing
+      - ribbed collar
+      - dropped shoulder
+      - embroidered flower
+      - long sleeve
+  - name: image_163.png
+    labels:
+      - turtleneck
+      - waistcoat
+      - sleeveless
+      - assymetric front
+      - button
+      - boxy fit
+      - lining
+  - name: image_164.jpg
+    labels:
+      - front
+      - back
+      - tank
+      - top
+      - fitted
+      - womens
+      - female
+      - square neckline
+      - halterneck
+      - low back
+      - stretch
+      - coverstitch
+      - overlock
+      - neckline ribbing
+  - name: image_165.jpg
+    labels:
+      - cowl neckline
+      - high neck
+      - button-up shoulder
+      - neck facing
+      - open cuffs
+      - button-closure cuffs
+      - drape
+      - womens
+      - loose fit
+      - french seams
+      - fused cuffs
+  - name: image_166.png
+    labels:
+      - front
+      - jacket
+      - placket
+      - concealed placket
+      - straight collar
+      - front darts
+      - cocoon sleeves
+      - wide sleeves
+      - dropped shoulder
+  - name: image_167.jpg
+    labels:
+      - high neck
+      - quarter zip
+      - fitted
+      - knit
+      - topstitched shoulder
+      - folded hem
+      - mens
+      - top
+      - male
+      - turtleneck
+  - name: image_168.jpg
+    labels:
+      - dress
+      - princess seams
+      - cups
+      - underbust seam
+      - lining
+      - godet
+      - skirt inserts
+      - pin hem
+      - voluminous
+      - fitted
+      - back
+      - front
+      - zip
+      - straps
+      - rouleau straps
+  - name: image_169.jpg
+    labels:
+      - pleats
+      - blouse
+      - v-neckline
+      - loose fit
+      - cuffs
+      - topstitched cuffs
+      - bell cuffs
+      - neckline facing
+      - french seams
+      - female
+      - womens
+  - name: image_170.jpg
+    labels:
+      - back
+      - dress
+      - womens
+      - female
+      - button-closure collar
+      - high neck
+      - keyhole back
+      - back darts
+      - tailored
+      - fitted
+      - volumionous
+      - pin hem
+      - midi
+  - name: image_171.jpg
+    labels:
+      - cardigan
+      - boucle
+      - ribbed cuffs
+      - waist ribbing
+      - buttons
+      - placket
+      - pockets
+      - regular fit
+      - womens
+      - female
+  - name: image_172.jpg
+    labels:
+      - dress
+      - maxi
+      - high neck
+      - buckle
+      - v-neck
+      - gathered
+      - folded hem
+      - a-line
+      - womens
+      - female
+  - name: image_173.jpg
+    labels:
+      - front
+      - jacket
+      - boxy fit
+      - front yoke
+      - back yoke
+      - topstitched armhole
+      - slide-in pockets
+      - topstitched pockets
+      - button-closure cuffs
+      - topstitched cuffs
+      - sleeve placket
+      - waistband
+      - batwing
+      - pleat sleeve
+      - front placket
+      - topstitched placket
+  - name: image_174.jpg
+    labels:
+      - trouser
+      - waistband
+      - topstitched waistband
+      - side pockets
+      - pocket flaps
+      - topstitched pockets
+      - front pleats
+      - slide-in pockets
+      - fly
+      - stud button
+      - zip
+      - back
+      - front
+      - back pockets
+      - belt loops
+  - name: image_175.png
+    labels:
+      - back
+      - bodysuit
+      - cape
+      - v-back
+      - gathers
+      - framilon
+      - scoop neckline
+      - shorts
+      - fitted
+      - stretch
+      - overlocked
+      - heat seal
+  - name: image_177.png
+    labels:
+      - back
+      - jacket
+      - overshirt
+      - placket
+      - cuffs
+      - topstitched cuffs
+      - waistband
+      - collar
+      - fused collar
+      - fused cuffs
+  - name: image_178.png
+    labels:
+      - front
+      - fitted
+      - front darts
+      - shoulder darts
+      - shoulder pads
+      - lining
+      - double-breasted
+      - standing collar
+      - high neck
+      - topstitched collar
+      - fused collar
+      - short
+      - blazer
+      - womens
+      - female
+  - name: image_179.jpg
+    labels:
+      - cape
+      - front
+      - back
+      - bust darts
+      - fitted
+      - a-line
+      - lining
+      - straight collar
+      - topstitched collar
+      - fused
+  - name: image_180.png
+    labels:
+      - back
+      - skirt
+      - knee-lenght
+      - lining
+      - back split
+      - back darts
+      - back zip
+      - waistband
+      - fused waistband
+      - blind hem
+  - name: image_182.jpg
+    labels:
+      - front
+      - back
+      - blouse
+      - ruffle
+      - topstitched placket
+      - buttons
+      - high collar
+      - shirt sleeve
+      - ruffle sleeve
+      - double folded hem
+      - fused collar
+      - button-closure collar
+      - front darts
+      - back darts
+      - shoulder darts
+      - center back seam
+      - french seams
+  - name: image_183.jpg
+    labels:
+      - front
+      - back
+      - dress
+      - womens
+      - female
+      - princess seams
+      - bell bottom
+      - short sleeve
+      - scoop neckline
+      - neckline facing
+      - french seams
+      - fitted
+      - midaxi
+      - concealed zip
+  - name: image_184.jpg
+    labels:
+      - top
+      - assymetric
+      - womens
+      - female
+      - high neck
+      - sleeveless
+      - front ruffle
+      - drape
+      - pin hem
+      - french seams
+      - womens
+      - female
+  - name: image_186.png
+    labels:
+      - back
+      - coat
+      - belt
+      - center back seam
+      - lining
+      - ankle-lenght
+      - back slit
+      - blind hem
+      - fused collar
+      - fused
+      - collar
+      - womens
+      - female
+  - name: image_187.jpg
+    labels:
+      - womens
+      - top
+      - long sleeve
+      - darts
+      - french seams
+      - fitted
+      - ruffle hem
+      - female
+      - jersey
+  - name: image_188.jpg
+    labels:
+      - trouser
+      - high-waisted
+      - folded hem
+      - fused hem
+      - fused waistband
+      - fly
+      - zip
+      - button
+      - tailored
+      - flare
+      - front
+      - back
+      - back darts
+      - slide-in pockets
+      - female
+      - womens
+  - name: image_189.jpg
+    labels:
+      - blazer
+      - womens
+      - female
+      - scoop neckline
+      - front facing
+      - button closure
+      - welt pockets
+      - front darts
+      - lining
+      - tailored
+  - name: image_190.png
+    labels:
+      - trouser
+      - lining
+      - folded hem
+      - fly
+      - front
+      - topstitched fly
+      - zip
+      - belted waist
+      - waistband
+      - front pleats
+      - slide-in pockets
+      - belt loops
+      - straight fit
+      - mens
+      - male
+  - name: image_193.jpg
+    labels:
+      - coat
+      - long
+      - back
+      - front
+      - tailored
+      - pocket flaps
+      - button-closure pockets
+      - lining
+      - maxi
+      - long sleeve
+      - collar
+      - button closure
+      - front facing
+      - cinched waist
+      - center back seam
+      - button-closure cuffs
+      - womens
+      - female
+      - seams pressed open
+  - name: image_194.jpg
+    labels:
+      - bra
+      - wireless
+      - bralette
+      - sports
+      - straps
+      - adjustment sliders
+      - front
+      - back
+      - bartack
+      - apex
+      - rings
+      - underband
+      - bagged out
+      - scoop neck
+      - low back
+      - stretch
+      - womens
+      - female
+      - elasticated neckline
+      - elasticated backline
+  - name: image_195.jpg
+    labels:
+      - top
+      - sleeveless
+      - front
+      - zip
+      - lining
+      - overlocked seams
+      - raglan sleeve
+      - high neck
+      - front
+      - fitted
+      - womens
+  - name: image_196.jpg
+    labels:
+      - jacket
+      - lining
+      - winter
+      - drawstring waistband
+      - drawstring neckline
+      - hood
+      - high neck
+      - front placket
+      - pocket flaps
+      - button closure pockets
+      - topstitched cuffs
+      - flat- felled seams
+      - straight fit
+      - mens
+      - male
+      - neckline facing
+      - zip
+      - snap buttons
+  - name: image_197.png
+    labels:
+      - skirt
+      - low-rise
+      - wrap
+      - tie
+      - loop
+      - ruffle hem
+      - mermaid
+      - embroidery
+      - waistband
+      - maxi
+      - tassels
+      - french seams
+  - name: image_198.jpg
+    labels:
+      - jacket
+      - front placket
+      - snap buttons
+      - topstitched placket
+      - gun flaps
+      - pockets
+      - pocket flaps
+      - button-closure pockets
+      - topstitched pockets
+      - drawstring waistband
+      - elasticated waistband
+      - overlocked
+      - oversize
+      - loose fit
+      - zip pockets
+      - drawstring neck
+      - high neck
+      - standing collar
+      - collar topstitched
+      - neckline facing
+      - lining
+      - belted cuffs
+      - button-closure collar
+      - elbow patches
+  - name: image_199.png
+    labels:
+      - denim
+      - back
+      - yoke
+      - topstitched yoke
+      - flat felled seams
+      - back pockets
+      - patch pockets
+      - pockets topstitched
+      - belt loops
+      - waistband topstitched
+      - folded hem
+      - straight fit
+      - mens
+  - name: image_200.jpg
+    labels:
+      - fitted
+      - dress
+      - pencil
+      - front
+      - back
+      - concealed placket
+      - tailored
+      - french seams
+      - seams pressed open
+      - square neckline
+      - neckline facing
+      - center back seams
+      - sleeveless
+      - midaxi
+      - womens
+      - female
+  - name: image_201.png
+    labels:
+      - tailored
+      - topstitched
+      - waistband facing
+      - blind hem
+      - center back zip
+      - back darts
+      - back pleat
+      - womens
+      - straight fit
+      - formal
+      - female
+  - name: image_202.jpg
+    labels:
+      - front
+      - back
+      - topstitched pockets
+      - patch pockets
+      - loose fit
+      - drawstring legline
+      - drawstring waistband
+      - front fly
+      - button-closure pockets
+      - flat-felled seams
+      - back pockets
+      - pocket flaps
+      - workwear
+      - trouser
+  - name: image_203.png
+    labels:
+      - trouser
+      - female
+      - waistband
+      - waistband facing
+      - loose fit
+      - high-waisted
+      - cut-out
+      - elasticated waistband
+      - blind hem
+      - overlocked seams
+      - front
+  - name: image_204.jpg
+    labels:
+      - blazer
+      - long
+      - patch pockets
+      - topstitched pockets
+      - tailored
+      - button-closure cuffs
+      - seams pressed open
+      - folded hem
+      - notched collar
+      - double-breasted
+      - front
+      - front darts
+      - lining
+      - fitted
+      - shoulder pads
+      - front facing
+      - womens
+      - female
+      - neck facing
+  - name: image_205.jpg
+    labels:
+      - jacket
+      - windbreaker
+      - long
+      - drawstringg hem
+      - elasticated hem
+      - toggles
+      - zip pockets
+      - pocket flaps
+      - elbow patches
+      - front placket
+      - button placket
+      - stud buttons
+      - front zip
+      - button-closure collar
+      - hood
+      - lining
+      - button-closure cuffs
+      - loose fit
+      - dropped shoulder
+      - topstitched armhole
+      - drawstring neckline
+  - name: image_206.jpg
+    labels:
+      - jacket
+      - front
+      - back
+      - straight collar
+      - collar stand topstitched
+      - lining
+      - oversize
+      - waistband ribbing
+      - front placket
+      - button placket
+      - stud buttons
+      - topstitched placket
+      - shoulders topstitched
+      - armhole topstitched
+      - ribbed cuffs
+      - back yoke
+      - yoke topstitched
+      - center back seam
+      - center back seam topstitched
+      - dropped shoulder
+  - name: image_207.jpg
+    labels:
+      - shirt
+      - blouse
+      - topstitched shoulder
+      - baloon sleeves
+      - cuff gathered
+      - topstitched cuffs
+      - pin hem
+      - front placket
+      - button placket
+      - placket topstitched
+      - front gathering
+      - loose fit
+      - high neck
+      - gathered collar
+      - button-closure collar
+      - collar stnad
+  - name: image_208.webp
+    labels:
+      - blazer
+      - lapelless
+      - front
+      - front darts
+      - tailored
+      - shoulder pads
+      - lining
+      - neck facing
+      - scoop neckline
+      - welt pockets
+      - fuse tape
+      - front facing
+      - female
+      - womens
+  - name: image_209.jpg
+    labels:
+      - skirt
+      - midaxi
+      - pleated
+      - pin hem
+      - waistband
+      - elasticated waistband
+      - female
+      - womens
+  - name: image_210.jpg
+    labels:
+      - jacket
+      - overshirt
+      - tassels
+      - front placket
+      - front yoke
+      - button placket
+      - placket topstitched
+      - folded hem
+      - buttonholes
+      - flat-felled seams
+      - straight collar
+      - topstitched collar
+      - dropped shoulder
+  - name: image_211.jpg
+    labels:
+      - coat
+      - womens
+      - female
+      - princess seams
+      - tailored
+      - fitted
+      - back
+      - front
+      - back seams
+      - center back seam
+      - lining
+      - neck facing
+      - front facing
+      - buttonholes
+      - button-closure cuffs
+      - folded hem
+      - a-line skirt
+      - fitted top
+      - standing collar
+      - long sleeve
+  - name: image_213.jpg
+    labels:
+      - shirt
+      - fitted waist
+      - straight collar
+      - blouse
+      - button placket
+      - placket topstitched
+      - cuffs
+      - button-closure cuffs
+      - dropped shoulder
+      - womens
+      - female
+      - peplum
+  - name: image_214.jpg
+    labels:
+      - coat
+      - double-breasted
+      - lapels
+      - collar
+      - fused collar
+      - fused lapels
+      - lapels topstitched
+      - welt pockets
+      - pockets fused
+      - lining
+      - front facing
+      - buttonholes
+      - shoulder pads
+      - seams pressed open
+  - name: image_215.png
+    labels:
+      - dress
+      - midaxi
+      - fitted
+      - button-closure pockets
+      - buttonholes
+      - slide-in pockets
+      - pin hem
+      - assymetric front
+      - front facing
+      - sleeveless
+      - long
+      - french seams
+  - name: image_216.png
+    labels:
+      - back
+      - bomber
+      - elasticated waistband
+      - side gathers
+      - topstitched waistband
+      - button-closure cuffs
+      - sleeve plackets
+      - raglan sleeve
+      - topstitched cuffs
+      - topstitched collar
+      - lining
+      - jacket
+  - name: image_217.png
+    labels:
+      - front
+      - princess seams
+      - front slit
+      - french seams
+      - gathers at waist
+      - rouleau straps
+      - bodice bagged out
+      - fuse tape
+      - square neckline
+      - slide-in pockets
+      - womens
+      - female
+  - name: image_218.jpg
+    labels:
+      - front
+      -
+
+
+
+
+
+
+
